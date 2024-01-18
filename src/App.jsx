@@ -47,9 +47,8 @@ function App() {
         <h1 className='temp'>{state4}°</h1>
         <div className="rame">
           <h1 className='cityname'>{city}</h1>
-          <h2 className='date'>06:09 - Monday, 9 Sep ‘23</h2>
         </div>
-        <img src="new.svg" alt="" />
+        <img src="outline.svg" alt="" />
       </div>
       <div className="bottom">
         <p className='det'>Weather Details...</p>
